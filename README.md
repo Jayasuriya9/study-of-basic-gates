@@ -84,7 +84,8 @@ endmodule
 ```
 
 **Logic symbol & Truthtable**
-![image](https://github.com/user-attachments/assets/00c6409b-faf9-4dad-a19d-1f75578a27fb)
+
+![image](https://github.com/user-attachments/assets/3d63ce70-e1a8-4e45-817f-207bf54f8e31)
 
 
 **RTL realization Output:** 
