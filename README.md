@@ -72,7 +72,7 @@ devoloped by : J Jayasuriya Reg No: 212223230088
 
 
 **Logic symbol & Truthtable**
-
+```
 module LogicGates(a,b,and_out,or_out,not_out,xor_out,xnor_out,nand_out,nor_out);
 input a,b;
 output and_out,or_out,not_out,xor_out,xnor_out,nand_out,nor_out;
@@ -85,14 +85,20 @@ nand g6(nand_out,a,b);
 nor g7(nor_out,a,b);
 endmodule
 
-
+```
 **RTL realization Output:** 
-![image](https://github.com/user-attachments/assets/861c9fc8-2c49-4c3a-808f-0850322956a5)
+
+![image](https://github.com/user-attachments/assets/92bc70be-4453-4210-9efa-8dbb48d1d5f1)
+
 
 
 **RTL**
 
-![image](https://github.com/user-attachments/assets/20aefedf-9a44-49af-b4f8-9ba031b0dd7e)
+![image](https://github.com/user-attachments/assets/298cd182-6c56-49f3-a812-30d1cebfb9ff)
+
+**OUTPUT**
+
+![image](https://github.com/user-attachments/assets/9cca2c00-642f-4bd3-bd7d-18f9b819209a)
 
 **Result:**
 
